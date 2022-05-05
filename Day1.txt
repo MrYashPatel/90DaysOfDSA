@@ -1,0 +1,21 @@
+Day 1 : Time Complexity
+Understanding the concepts of Time Complexity.
+
+What is Time Complexity?
+The amount of time taken by an algorithm to run is called Time Complexity.
+
+Measurement of Time Complexity:
+
+1. Lower Bound
+The notation Ω(n) is the formal way to express the lower bound of an algorithm's running time. 
+It measures the best case time complexity or the best amount of time an algorithm can possibly 
+take to complete.
+
+2. Upper Bound
+This notation is known as the upper bound of the algorithm, or a Worst Case of an algorithm.
+It tells us that a certain function will never exceed a specified time for any value of input n.
+
+3. Tight Bound
+When we say tight bounds, we mean that the time compexity represented by the Big-Θ notation 
+is like the average value or range within which the actual time of execution of the algorithm 
+will be.
